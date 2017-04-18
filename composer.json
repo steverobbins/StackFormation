@@ -1,5 +1,5 @@
 {
-    "name": "aoepeople/stackformation",
+    "name": "steverobbins/stackformation",
     "description": "Lightweight AWS CloudFormation Stack Manager",
     "license": "OSL-3.0",
     "authors": [{
